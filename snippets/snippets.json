@@ -1538,6 +1538,11 @@
 		"prefix": "rightarrow",
 		"body": ["\\rightarrow "]
 	},
+	"LaTeX - leftarrow": {
+		"scope": "",
+		"prefix": "leftarrow",
+		"body": ["\\leftarrow "]
+	},
 	"LaTeX - to": {
 		"scope": "",
 		"prefix": "to",
@@ -1755,6 +1760,16 @@
 		"scope": "",
 		"prefix": "text",
 		"body": ["\\text{$1}$0"]
+	},
+	"LaTeX - textbf": {
+		"scope": "",
+		"prefix": "textbf",
+		"body": ["\\textbf{$1}$0"]
+	},
+	"LaTeX - textit": {
+		"scope": "",
+		"prefix": "textit",
+		"body": ["\\textit{$1}$0"]
 	},
 	"LaTeX - operatorname": {
 		"scope": "",
