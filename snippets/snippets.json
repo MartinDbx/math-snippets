@@ -1538,11 +1538,6 @@
 		"prefix": "rightarrow",
 		"body": ["\\rightarrow "]
 	},
-	"LaTeX - leftarrow": {
-		"scope": "",
-		"prefix": "leftarrow",
-		"body": ["\\leftarrow "]
-	},
 	"LaTeX - to": {
 		"scope": "",
 		"prefix": "to",
