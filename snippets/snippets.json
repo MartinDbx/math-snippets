@@ -548,6 +548,11 @@
 		"prefix": "nsupseteq",
 		"body": ["\\nsupseteq "]
 	},
+	"LaTeX - complement": {
+		"scope": "",
+		"prefix": "complement",
+		"body": ["\\complement "]
+	},
 	"LaTeX - in": {
 		"scope": "",
 		"prefix": "in",
@@ -582,6 +587,11 @@
 		"scope": "",
 		"prefix": "setminus",
 		"body": ["\\setminus "]
+	},
+	"LaTeX - colon": {
+		"scope": "",
+		"prefix": "colon",
+		"body": ["\\colon "]
 	},
 	"LaTeX - equiv": {
 		"scope": "",
@@ -1770,6 +1780,11 @@
 		"scope": "",
 		"prefix": "operatorname",
 		"body": ["\\operatorname{$1}$0"]
+	},
+	"LaTeX - textstyle": {
+		"scope": "",
+		"prefix": "textstyle",
+		"body": ["\\textstyle "]
 	},
 	"LaTeX - displaystyle ": {
 		"scope": "",
