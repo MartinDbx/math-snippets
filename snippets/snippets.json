@@ -1272,6 +1272,11 @@
 		"prefix": "upharpoonright",
 		"body": ["\\upharpoonright "]
 	},
+	"LaTeX - dots": {
+		"scope": "",
+		"prefix": "dots",
+		"body": ["\\dots "]
+	},
 	"LaTeX - cdot": {
 		"scope": "",
 		"prefix": "cdot",
@@ -1547,6 +1552,11 @@
 		"scope": "",
 		"prefix": "rightarrow",
 		"body": ["\\rightarrow "]
+	},
+	"LaTeX - xrightarrow": {
+		"scope": "",
+		"prefix": "xrightarrow",
+		"body": ["\\xrightarrow{$1} $0"]
 	},
 	"LaTeX - to": {
 		"scope": "",
